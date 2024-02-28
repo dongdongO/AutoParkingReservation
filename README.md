@@ -67,6 +67,6 @@ https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/d11acff
 
     Just as a vehicle that has completed charging can be moved to a regular parking area, DeltaV can also pre-position cars in anticipation of people returning to the parking lot after completing their errands.
 
-3. **Real Testing within a Limited Space**
+3. **Real Testing**
 
     For testing, an environment is set up on JetRacer, followed by testing and deploying the algorithm.
