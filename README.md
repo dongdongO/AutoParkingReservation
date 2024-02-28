@@ -1,6 +1,7 @@
 
 ## Structure
-![structure drawio](https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97211801/f26fd6ca-d617-4c8b-80cf-6c7e62ac7b22)
+![structure drawio](https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97211801/6b97d6ad-4de1-432f-95d2-e64962c18074)
+
 
 ## Charging Station Agent (Cloud)
 We use this Decentralized Agent using DeltaV (LLM) 
