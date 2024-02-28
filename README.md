@@ -6,7 +6,7 @@ This project can liberate you from the stress of limited electric vehicle charge
 This enables Businesses to efficiently manage a small amount of charger to satisfy a large number of users, and Users to enjoy freedom before and after charging.
 
 ## Architecture
-![Sturcture drawio](https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97211801/c1989442-4d75-46c4-9c69-880f1068c9ab)
+![Structure drawio](https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97211801/3bf92957-0129-49ca-89bb-4fc700a4988d)
 
 ## Keyconcepts
 ### **deltaV(LLM)**
