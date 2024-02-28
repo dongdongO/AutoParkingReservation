@@ -17,10 +17,8 @@ Even if a fully charged vehicle occupies the charging area, deltaV informs the u
 How this could be possible?
 
 ### **Agent**
-  
-Both the vehicle attempting to park and the one in charger can transmit and receive data as “agent”. 
-Upon receiving information from deltaV to move the fully charged vehicle, the central parking manager communicates with the fully charged vehicle's agent to move to regular parking lot.
-This allows for the completion of a fully decentralized structure.
+
+If some car want to park, then parked car in charger can transmit and receive data as “agent”. Upon receiving information from deltaV to move the fully charged vehicle, the charger “agent” communicates with the fully charged vehicle to move to regular parking lot. Those uAgents enables fully decentralized structure.
 
 ### **Kuksa**
 
