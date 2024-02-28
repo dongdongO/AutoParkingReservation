@@ -3,7 +3,7 @@
 ## About
   
 How far can LLM change your life? How can reverage Decentralized Multi-Agent system?
-This project can liberate you from the stress of limited electric vehicle charger! Using LLM and charging station agent, you can make reservation. Futhermore, upon new request of reservation, fully charged vehicles automatically move to a regular parking lot (no charger), allowing new car to charge.
+This project can liberate you from the stress of limited electric vehicle charger! Using LLM and charging station agent, you can make reservation like any other LLM does. Futhermore, upon new request of reservation, fully charged vehicles automatically move to a regular parking lot (no charger), allowing new car to charge.
 This enables Businesses to efficiently manage a small amount of charger to satisfy a large number of users, and Users to enjoy freedom before and after charging.
 
 ## Architecture
