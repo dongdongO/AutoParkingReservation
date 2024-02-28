@@ -29,11 +29,11 @@ Just publish to kuksa according to the types defined in COVESA's VSS!
 
 1. Vehicle A's user asks DeltaV, "Can I charge in the parking lot?"
 
-2. DeltaV evaluates the spot through its service and determines:
+2. DeltaV evaluates the charging spot through its service and determines:
 
-    * The spot is empty.
-    * There is a car in the spot, but it has not finished charging.
-    * There is a car in the spot, and it is fully charged.
+    * The charging spot is empty.
+    * There is a car in the charging spot, but it has not finished charging.
+    * There is a car in the charging spot, and it is fully charged.
 
 3. Since the charging station has an available spot, DeltaV reserves the spot and confirms the reservation with Vehicle A's user.
 
@@ -49,9 +49,9 @@ https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/b3538e7
 
 
 
-6. After some time, Vehicle B's user asks DeltaV again, "Is there a spot available now?"
+6. After some time, Vehicle B's user asks DeltaV again, "Is there a charging spot available now?"
 7. Despite Vehicle A still being at the charging station, DeltaV reserves a spot for Vehicle B's user. How is this possible?
-8. The Charging Station knows that Vehicle A has completed charging and requests Vehicle A's agent to move the car to a regular parking area.
+8. The Charging Station knows that Vehicle A has completed charging and requests Vehicle A's agent to move the car to a other parking area.
 
 
 
@@ -65,4 +65,8 @@ By integrating voice recognition with DeltaV, drivers can communicate with Delta
 
 2. **Vehicle Summoning System**
 
+Just as a vehicle that has completed charging can be moved to a regular parking area, DeltaV can also pre-position cars in anticipation of people returning to the parking lot after completing their errands.
+
 3. **Real Testing within a Limited Space**
+
+For testing, an environment is set up on JetRacer, followed by testing and deploying the algorithm.
