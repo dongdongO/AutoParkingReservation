@@ -1,6 +1,9 @@
 # Decentralized Mobility Agents
 ## About
-This project enhances the efficiency of charging stations by moving fully charged vehicles to regular parking lot upon request. Through this, businesses can manage a small infrastructure effectively to satisfy a large number of users, and users can enjoy freedom before and after charging.
+How far can LLM change your life? 
+This project can liberate you from the stress of limited electric vehicle infrastructure! 
+Upon user request, fully charged vehicles automatically move to a regular parking area, allowing users to occupy the charging spot. 
+This enables businesses to efficiently manage a small infrastructure to satisfy a large number of users, and users can enjoy freedom before and after charging.
 
 ## Architecture
 ![structure drawio](https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97211801/6b97d6ad-4de1-432f-95d2-e64962c18074)
