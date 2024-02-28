@@ -40,6 +40,10 @@ Just publish to kuksa according to the types defined in COVESA's VSS!
 3. Since the charging station has an available spot, deltaV reserves the spot and confirms the reservation with Vehicle A's user.
 
 
+
+https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/f6c5da9d-27ff-4e7c-87c9-11ef7f22278d
+
+
 4. This time, Vehicle B's user asks deltaV.
 5. Unfortunately, Vehicle A has not finished charging yet. deltaV informs Vehicle B's user that a reservation cannot be made.
 
@@ -50,6 +54,10 @@ https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/b3538e7
 6. After some time, Vehicle B's user asks deltaV again, "Is there a spot available now?"
 7. Despite Vehicle A still being at the charging station, deltaV reserves a spot for Vehicle B's user. How is this possible?
 8. The Charging Station knows that Vehicle A has completed charging and requests Vehicle A's agent to move the car to a regular parking area.
+
+
+
+https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/2bb246cc-8da1-42ac-b111-df55440d4858
 
 
 ## Future Plan
