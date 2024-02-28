@@ -1,6 +1,7 @@
 # Multi-Agent LLM for Better EV Charge Experience
 
 ## About
+  
 How far can LLM change your life? How can reverage Decentralized Multi-Agent system?
 This project can liberate you from the stress of limited electric vehicle charger! Using LLM and charging station agent, you can make reservation. Futhermore, upon new request of reservation, fully charged vehicles automatically move to a regular parking lot (no charger), allowing new car to charge.
 This enables Businesses to efficiently manage a small amount of charger to satisfy a large number of users, and Users to enjoy freedom before and after charging.
@@ -60,12 +61,12 @@ https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/d11acff
 ## Future Plan
 1. **Integration of DeltaV with Voice Recognition**
 
-By integrating voice recognition with DeltaV, drivers can communicate with DeltaV through speech while driving to hear about reservations, parking status, and more. Additionally, from the comfort of their home, they can receive updates about their car's status through DeltaV.
+    By integrating voice recognition with DeltaV, drivers can communicate with DeltaV through speech while driving to hear about reservations, parking status, and more. Additionally, from the comfort of their home, they can receive updates about their car's status through DeltaV.
 
 2. **Vehicle Summoning System**
 
-Just as a vehicle that has completed charging can be moved to a regular parking area, DeltaV can also pre-position cars in anticipation of people returning to the parking lot after completing their errands.
+    Just as a vehicle that has completed charging can be moved to a regular parking area, DeltaV can also pre-position cars in anticipation of people returning to the parking lot after completing their errands.
 
 3. **Real Testing within a Limited Space**
 
-For testing, an environment is set up on JetRacer, followed by testing and deploying the algorithm.
+    For testing, an environment is set up on JetRacer, followed by testing and deploying the algorithm.
