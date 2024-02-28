@@ -1,4 +1,4 @@
-# Multi-Agent LLM for Better EV Charge Experience :건전지:
+# Multi-Agent LLM for Better EV Charge Experience
 
 ## About
 How far can LLM change your life? How can reverage Decentralized Multi-Agent system?
@@ -28,23 +28,28 @@ When developing autonomous parking algorithms, there's no need to worry about ho
 Just publish to kuksa according to the types defined in COVESA's VSS!
 
 ## Scenario
-1. Vehicle A 유저가 deltaV에 물어봅니다. 나 주차장에서 충전 할 수 있어?
-2. deltaV가 service를 통해 해당 자리에 대한 판단을 합니다
-    * 자리가 비어있다
-    * 자리에 차가 있지만 해당 차는 충전이 끝나지 않은 상태이다
-    * 자리에 차가 있고 해당 차는 풀충전 상태이다
-3. 현재는 충전소에 자리가 비어있기 때문에 deltaV가 자리를 예약해주고 Vehicle A의 유저에게 예약 확인을 해줍니다.
 
-<img src=/demo/scenario1.gif alt="scenario1" width="80%" height="80%"/>
+1. Vehicle A's user asks deltaV, "Can I charge in the parking lot?"
 
-4. 이번에는 Vehicle B 유저가 deltaV에 물어봅니다.
-5. 아쉽게도 Vehicle A의 충전이 끝나지 않았네요. deltaV는 Vehicle B유저에게 예약할 수 없다고 합니다.
+2. deltaV evaluates the spot through its service and determines:
+
+    * The spot is empty.
+    * There is a car in the spot, but it has not finished charging.
+    * There is a car in the spot, and it is fully charged.
+
+3. Since the charging station has an available spot, deltaV reserves the spot and confirms the reservation with Vehicle A's user.
+
+
+4. This time, Vehicle B's user asks deltaV.
+5. Unfortunately, Vehicle A has not finished charging yet. deltaV informs Vehicle B's user that a reservation cannot be made.
 
 https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/b3538e7b-73af-4247-8996-00605d005b42
 
 
-6. 시간이 지난후 Vehicle B 유저가 다시 deltaV에 물어봅니다.
-7. 
+
+6. After some time, Vehicle B's user asks deltaV again, "Is there a spot available now?"
+7. Despite Vehicle A still being at the charging station, deltaV reserves a spot for Vehicle B's user. How is this possible?
+8. The Charging Station knows that Vehicle A has completed charging and requests Vehicle A's agent to move the car to a regular parking area.
 
 
 ## Future Plan
