@@ -28,3 +28,4 @@ When developing autonomous parking algorithms, there's no need to worry about ho
 Just publish to kuksa according to the types defined in COVESA's VSS!
 
 ## Demo
+![scenario1-ezgif com-video-to-gif-converter](https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/3ea48b07-fd5e-4114-bb38-aac2f23fe64f)
