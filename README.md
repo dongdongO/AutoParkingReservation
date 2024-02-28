@@ -6,7 +6,7 @@ Upon user request, fully charged vehicles automatically move to a regular parkin
 This enables businesses to efficiently manage a small infrastructure to satisfy a large number of users, and users can enjoy freedom before and after charging.
 
 ## Architecture
-![structure drawio](https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97211801/6b97d6ad-4de1-432f-95d2-e64962c18074)
+![Sturcture drawio](https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97211801/c1989442-4d75-46c4-9c69-880f1068c9ab)
 
 ## Keyconcepts
 ### **deltaV(LLM)**
