@@ -40,7 +40,8 @@ Just publish to kuksa according to the types defined in COVESA's VSS!
 4. 이번에는 Vehicle B 유저가 deltaV에 물어봅니다.
 5. 아쉽게도 Vehicle A의 충전이 끝나지 않았네요. deltaV는 Vehicle B유저에게 예약할 수 없다고 합니다.
 
-<img src=/demo/scenario2.gif alt="scenario1" width="80%" height="80%"/>
+https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/b3538e7b-73af-4247-8996-00605d005b42
+
 
 6. 시간이 지난후 Vehicle B 유저가 다시 deltaV에 물어봅니다.
 7. 
