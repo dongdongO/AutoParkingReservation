@@ -1,5 +1,10 @@
 # Multi-Agent LLM for Better EV Charge Experience
 
+## TEAM MEMINE
+<div align="center">
+    <img src="https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/73748884/5eaf2860-fa9f-4a8a-b898-83247a6849ba" width="300" height="300">
+</div>
+
 ## About
   
 How far can LLM change your life? How can reverage Decentralized Multi-Agent system?
