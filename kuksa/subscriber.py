@@ -1,9 +1,8 @@
 from kuksa_client.grpc import VSSClient
-# from piracer.vehicles import PiRacerStandard, PiRacerPro
+# from jetracer.nvidia_racecar import NvidiaRacecar
 import time
 
-# piracer = PiRacerPro()
-# piracer = PiRacerStandard()
+# car = NvidiaRacecar() 
 
 while(1):
     # Assuming the kuksa_client library provides a context manager for VSSClient
@@ -21,8 +20,8 @@ while(1):
             print(f"Received updated Model: {speed}")
             print(f"Received updated Model: {angle}")
 
-    # piracer.set_throttle_percent(speed)
-    # piracer.set_steering_percent(angle)
+    car.throttle = speed
+    car.steering = angle
     time.sleep(0.1)
 
 print("Finished. Exiting the subscriber script.")
