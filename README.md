@@ -38,15 +38,14 @@ Just publish to kuksa according to the types defined in COVESA's VSS!
 3. Since the charging station has an available spot, DeltaV reserves the spot and confirms the reservation with Vehicle A's user.
 
 
-
-https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/f6c5da9d-27ff-4e7c-87c9-11ef7f22278d
+https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/7837402b-16ae-4692-93db-ee980c212adf
 
 
 4. This time, Vehicle B's user asks DeltaV.
 5. Unfortunately, Vehicle A has not finished charging yet. DeltaV informs Vehicle B's user that a reservation cannot be made.
 
-https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/b3538e7b-73af-4247-8996-00605d005b42
 
+https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/0bcf0b21-6fdc-41e2-9c17-c44507e574f8
 
 
 6. After some time, Vehicle B's user asks DeltaV again, "Is there a charging spot available now?"
@@ -54,8 +53,8 @@ https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/b3538e7
 8. The Charging Station knows that Vehicle A has completed charging and requests Vehicle A's agent to move the car to a other parking area.
 
 
+https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/d11acff6-cd38-46cc-b510-b3a60f2ac8db
 
-https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/2bb246cc-8da1-42ac-b111-df55440d4858
 
 
 ## Future Plan
