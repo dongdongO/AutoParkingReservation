@@ -59,6 +59,9 @@ https://github.com/Bosch-ConnectedExperience-2024/MEMINE/assets/97011426/2bb246c
 
 
 ## Future Plan
-1. DeltaV를 통한 차량 -> 음섣인식 + 기능
-3. 자동적으로 차량이 내앞에
-4. 한정된 공간에서 실제 테스트 / 배포
+1. Integration of DeltaV with Voice Recognition
+By integrating voice recognition with DeltaV, drivers can communicate with DeltaV through speech while driving to hear about reservations, parking status, and more. Additionally, from the comfort of their home, they can receive updates about their car's status through DeltaV.
+
+2. Vehicle Summoning System
+
+3. Real Testing within a Limited Space
