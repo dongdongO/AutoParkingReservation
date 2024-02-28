@@ -31,7 +31,29 @@ If some car want to park, then parked car in charger can transmit and receive da
 When developing autonomous parking algorithms, there's no need to worry about how to control the vehicle's actuators. 
 Just publish to kuksa according to the types defined in COVESA's VSS!
 
-## Scenario
+## Demo
+
+### Setup "Vehicle A" and "Vehicle B" Agents
+1. Install uAgent dependency.
+2-a. Run agent/local/simulVehicle.py code for visualization with Matplotlib
+2-b. Or run agent/local/VehicleA.py and agent/local/VehicleB.py in each JetRacer
+3. If then Address will pop up. Remember This!
+4. Now, Vehicle Agent is running on your local system.
+   
+### Setup "Charging Station" Service
+1. Go to agentverse's My Agents tab.
+2. Register New Agent named "Charger"
+3. Copy agent/local/charger.py code and Paste to agent.py in your "Charger" agent
+4. Change VEHICLE_AGENT_A and VEHICLE_AGENT_B to Proper Address
+5. Reset Agent's Storage to { "charged": false, "occupied": false }
+6. Run Your "Charger" Agent, now your Charger Agent is running on Cloud
+7. Go to Services tab
+8. Register new service group and Make new Service named "Charging Station" with "Charger" agent
+   
+### Play with DeltaV
+1. Go to DeltaV and change to advanced mode
+2. Select your service group
+3. Ask about Charger and Enjoy! (편집됨) 
 
 1. Vehicle A's user asks DeltaV, "Can I charge in the parking lot?"
 
