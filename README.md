@@ -31,7 +31,7 @@ If some car want to park, then parked car in charger can transmit and receive da
 When developing autonomous parking algorithms, there's no need to worry about how to control the vehicle's actuators. 
 Just publish to kuksa according to the types defined in COVESA's VSS!
 
-## Demo
+## Demo (How to Follow)
 
 ### Setup "Vehicle A" and "Vehicle B" Agents
 1. Install uAgent dependency.
@@ -53,7 +53,9 @@ Just publish to kuksa according to the types defined in COVESA's VSS!
 ### Play with DeltaV
 1. Go to DeltaV and change to advanced mode
 2. Select your service group
-3. Ask about Charger and Enjoy! (편집됨) 
+3. Ask about Charger and Enjoy!
+
+## Senario
 
 1. Vehicle A's user asks DeltaV, "Can I charge in the parking lot?"
 
