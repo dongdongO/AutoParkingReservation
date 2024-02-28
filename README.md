@@ -7,7 +7,7 @@
 
 ## About
   
-How far can LLM change your life? How can reverage Decentralized Multi-Agent system?
+How far can LLM change your life? How can leverage Decentralized Multi-Agent system?
 This project can liberate you from the stress of limited electric vehicle charger! Using LLM and charging station agent, you can make reservation like any other LLM does. Futhermore, upon new request of reservation, fully charged vehicles automatically move to a regular parking lot (no charger), allowing new car to charge.
 This enables Businesses to efficiently manage a small amount of charger to satisfy a large number of users, and Users to enjoy freedom before and after charging.
 
@@ -35,10 +35,9 @@ Just publish to kuksa according to the types defined in COVESA's VSS!
 
 ### Setup "Vehicle A" and "Vehicle B" Agents
 1. Install uAgent dependency.
-2-a. Run agent/local/simulVehicle.py code for visualization with Matplotlib
-2-b. Or run agent/local/VehicleA.py and agent/local/VehicleB.py in each JetRacer
-3. If then Address will pop up. Remember This!
-4. Now, Vehicle Agent is running on your local system.
+2. Run agent/local/simulVehicle.py code for visualization with Matplotlib (or run agent/local/VehicleA.py and agent/local/VehicleB.py in each JetRacer)
+4. If then Address will pop up. Remember This!
+5. Now, Vehicle Agent is running on your local system.
    
 ### Setup "Charging Station" Service
 1. Go to agentverse's My Agents tab.
